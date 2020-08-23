@@ -32,9 +32,13 @@ def parse_date(entry):
     return f'{published.tm_mday}-{published.tm_mon}-{published.tm_year}'
 
 
+def insert_newlines(string, every=48):
+    return '<br>'.join(string[i:i + every] for i in range(0, len(string), every))
+
+
 def parse_to_markdown(blog_entries: list) -> str:
     return "\n".join([
-        f'| [{entry.title}]({entry.url}) | {entry.published} |'
+        f'| [{insert_newlines(entry.title)}]({entry.url}) | {entry.published} |'
         for entry in blog_entries
     ])
 
