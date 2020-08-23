@@ -49,7 +49,6 @@ class Test(TestCase):
                 published='26-7-2020'
             ),
             BlogEntry(
-
                 title='Count change algorithm.',
                 url='https://medium.com/@wzieba/count-change-algorithm-df8864f68e76?source=rss-117db94a0177------2',
                 published='27-1-2017'

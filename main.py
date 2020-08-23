@@ -34,7 +34,7 @@ def parse_date(entry):
 
 def parse_to_markdown(blog_entries: list) -> str:
     return "\n".join([
-        f'* [{entry.title}]({entry.url}) - {entry.published}'
+        f'| [{entry.title}]({entry.url}) | {entry.published} |'
         for entry in blog_entries
     ])
 
@@ -52,7 +52,8 @@ def replace_content(content: str, block_marker: str, new_content: str) -> str:
 if __name__ == "__main__":
     entries = fetch_and_parse_rss_feed("https://medium.com/feed/@wzieba")
 
-    new_content_markdown = parse_to_markdown(entries)
+    table_header = '| Title | Date |\n| ----- | ---- |\n'
+    new_content_markdown = table_header + parse_to_markdown(entries)
 
     replaced_content = replace_content(open(README_FILE_NAME, 'r').read(), "blog", new_content_markdown)
 
