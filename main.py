@@ -1,5 +1,6 @@
 import re
 from dataclasses import dataclass
+import time
 
 import feedparser
 
@@ -29,7 +30,7 @@ def fetch_and_parse_rss_feed(rss_feed: str) -> list:
 def parse_date(entry):
     published = entry["published_parsed"]
 
-    return f'{published.tm_mday}-{published.tm_mon}-{published.tm_year}'
+    return time.strftime("%d/%m/%Y", published)
 
 
 def insert_newlines(string, every=48):

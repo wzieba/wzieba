@@ -10,8 +10,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Check out TILs
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        repository: wzieba/til
+    - name: Append TILs
+      uses: wzieba/github-action-til-autoformat-readme@table_presenation
+      with:
+        repo_name: 'wzieba/til'
+        presentation: 'table'
+        list_most_recent: 5
+        tils_counter_format: ''
+        date_format: '02/01/2006'
     - name: Check out repo
       uses: actions/checkout@v2
+      with:
+        path: medium
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -25,16 +40,22 @@ jobs:
           ${{ runner.os }}-pip-
     - name: Install Python dependencies
       run: |
-        python -m pip install -r requirements.txt
-    - name: Run tests
-      run: |
-        python -m unittest -v test_main
+        python -m pip install -r medium/requirements.txt
     - name: Update README
       run: |-
+        cd medium
         python main.py
         cat README.md
     - name: Commit and push if changed
       run: |-
+        cd medium
+        echo "TILs"
+        cat ../README.md
+        echo "Blog"
+        cat README.md
+        cat ../README.md >> README.md
+        echo "Joined"
+        cat README.md
         git diff
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
