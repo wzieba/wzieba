@@ -62,6 +62,9 @@ if __name__ == "__main__":
 
     replaced_content = replace_content(open(README_FILE_NAME, 'r').read(), "blog", new_content_markdown)
 
+    replaced_content = replaced_content.split("<!-- blog ends -->", 1)[0]
+    replaced_content += "<!-- blog ends -->"
+
     print(replaced_content)
 
     open(README_FILE_NAME, 'w').write(replaced_content)
