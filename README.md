@@ -12,14 +12,10 @@
 | [String escape sequences while reading String fro<br>m a file in Kotlin/Java](https://medium.com/@wzieba/string-escape-sequences-while-reading-string-from-a-file-in-kotlin-java-77b4249e5330?source=rss-117db94a0177------2) | 26/07/2020 |
 | [Count change algorithm.](https://medium.com/@wzieba/count-change-algorithm-df8864f68e76?source=rss-117db94a0177------2) | 27/01/2017 |
 <!-- blog ends -->
-
-## Recent [TILs](https://github.com/wzieba/til)
-
 | Name | Category | Date |
 | ---- | -------- | ---- |
+| [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md) | Android | 16/10/2020 |
 | [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md) | Gradle | 26/09/2020 |
 | [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md) | Android | 22/09/2020 |
 | [Self-hosted runners tips and tricks](https://github.com/wzieba/til/blob/master/GithubActions/self-hosted-runner-tips.md) | GithubActions | 19/09/2020 |
 | [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md) | Tools | 12/09/2020 |
-| [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md) | Android | 26/08/2020 |
-
