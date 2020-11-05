@@ -6,11 +6,11 @@
 <!-- blog starts -->
 | Title | Date |
 | ----- | ---- |
+| [Hi Artur, thanks! I'm really glad you liked it.](https://medium.com/@wzieba/hi-artur-thanks-im-really-glad-you-liked-it-c221ebc43ab2?source=rss-117db94a0177------2) | 04/11/2020 |
 | [An argument against buildSrc-defined dependencie<br>s (or: how to seamlessly keep your Gradle…](https://medium.com/@wzieba/an-argument-against-buildsrc-defined-dependencies-or-how-to-seamlessly-keep-your-gradle-8e0bfd7ee8e3?source=rss-117db94a0177------2) | 16/08/2020 |
 | [How I’ve automated updating recent blogposts on <br>Github Profile README](https://medium.com/@wzieba/how-ive-automated-updating-recent-blogposts-on-github-profile-readme-ba1ef9d53535?source=rss-117db94a0177------2) | 09/08/2020 |
 | [Github Actions + Fastlane + Firebase App Distrib<br>ution (or App Center)](https://medium.com/@wzieba/github-actions-fastlane-firebase-app-distribution-or-app-center-4fadbdff63f9?source=rss-117db94a0177------2) | 02/08/2020 |
 | [String escape sequences while reading String fro<br>m a file in Kotlin/Java](https://medium.com/@wzieba/string-escape-sequences-while-reading-string-from-a-file-in-kotlin-java-77b4249e5330?source=rss-117db94a0177------2) | 26/07/2020 |
-| [Count change algorithm.](https://medium.com/@wzieba/count-change-algorithm-df8864f68e76?source=rss-117db94a0177------2) | 27/01/2017 |
 <!-- blog ends -->
 | Name | Category | Date |
 | ---- | -------- | ---- |
