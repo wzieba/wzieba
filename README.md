@@ -19,3 +19,4 @@
 | [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md) | Android | 22/09/2020 |
 | [Self-hosted runners tips and tricks](https://github.com/wzieba/til/blob/master/GithubActions/self-hosted-runner-tips.md) | GithubActions | 19/09/2020 |
 | [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md) | Tools | 12/09/2020 |
+| [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md) | Android | 26/08/2020 |
