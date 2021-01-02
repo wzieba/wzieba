@@ -14,9 +14,12 @@
 <!-- blog ends -->
 | Name | Category | Date |
 | ---- | -------- | ---- |
-| [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md) | Android | 16 Oct 20 11:26 +0200 |
-| [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md) | Gradle | 26 Sep 20 13:35 +0200 |
-| [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md) | Android | 22 Sep 20 12:56 +0200 |
-| [Self-hosted runners tips and tricks](https://github.com/wzieba/til/blob/master/GithubActions/self-hosted-runner-tips.md) | GithubActions | 19 Sep 20 12:54 +0200 |
-| [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md) | Tools | 12 Sep 20 10:15 +0200 |
-| [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md) | Android | 26 Aug 20 17:45 +0200 |
+| [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md) | Android | 16/10/2020 |
+| [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md) | Gradle | 26/09/2020 |
+| [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md) | Android | 22/09/2020 |
+| [Self-hosted runners tips and tricks](https://github.com/wzieba/til/blob/master/GithubActions/self-hosted-runner-tips.md) | GithubActions | 19/09/2020 |
+| [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md) | Tools | 12/09/2020 |
+| [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md) | Android | 26/08/2020 |
+| [When Dagger's @Singleton is created twice?](https://github.com/wzieba/til/blob/master/Dagger/when-daggers-singleton-is-created-twice.md) | Dagger | 01/01/0001 |
+| [inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md) | Kotlin | 01/01/0001 |
+| [Observable#switchMapCompletable does not complete](https://github.com/wzieba/til/blob/master/Rx/switch-map-completable-does-not-complete.md) | Rx | 01/01/0001 |
