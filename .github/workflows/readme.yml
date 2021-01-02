@@ -20,7 +20,7 @@ jobs:
       with:
         repo_name: 'wzieba/til'
         presentation: 'table'
-        list_most_recent: 5
+        list_most_recent: 6
         tils_counter_format: ''
         date_format: '02/01/2006'
     - name: Check out repo
