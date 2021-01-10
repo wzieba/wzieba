@@ -14,6 +14,7 @@
 <!-- blog ends -->
 | Name | Category | Date |
 | ---- | -------- | ---- |
+| [JiT and AoT compilations in JVM](https://github.com/wzieba/til/blob/master/JVM/jit_aot_compilations.md) | JVM | 10/01/2021 |
 | [WeakReference](https://github.com/wzieba/til/blob/master/JVM/weakreference.md) | JVM | 09/01/2021 |
 | [Inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md) | Kotlin | 02/01/2021 |
 | [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md) | Android | 16/10/2020 |
