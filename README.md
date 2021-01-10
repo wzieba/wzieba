@@ -14,7 +14,8 @@
 <!-- blog ends -->
 | Name | Category | Date |
 | ---- | -------- | ---- |
-| [inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md) | Kotlin | 02/01/2021 |
+| [WeakReference](https://github.com/wzieba/til/blob/master/JVM/weakreference.md) | JVM | 09/01/2021 |
+| [Inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md) | Kotlin | 02/01/2021 |
 | [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md) | Android | 16/10/2020 |
 | [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md) | Gradle | 26/09/2020 |
 | [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md) | Android | 22/09/2020 |
