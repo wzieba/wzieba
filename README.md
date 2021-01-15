@@ -14,6 +14,7 @@
 <!-- blog ends -->
 | Name | Category | Date |
 | ---- | -------- | ---- |
+| [`yes`](https://github.com/wzieba/til/blob/master/Shell/yes.md) | Shell | 14/01/2021 |
 | [JiT and AoT compilations in JVM](https://github.com/wzieba/til/blob/master/JVM/jit_aot_compilations.md) | JVM | 10/01/2021 |
 | [WeakReference](https://github.com/wzieba/til/blob/master/JVM/weakreference.md) | JVM | 09/01/2021 |
 | [Inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md) | Kotlin | 02/01/2021 |
