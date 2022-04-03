@@ -1,8 +1,8 @@
 ## Hi there, welcome to my Github! 👋🏼
 
-<a href="https://giphy.com/stickers/GDevs-android-developer-summit-Y4bzv6DYbYzy8jDnoW"><img width = "33%" align="left" height="300" style="height:50px;" src=https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif></a>
+<a href="https://giphy.com/stickers/GDevs-android-developer-summit-Y4bzv6DYbYzy8jDnoW"><img align="left" height="300" style="height:50px;" src=https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif></a>
 
-### Recent blog posts [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@wzieba)](https://medium.com/@wzieba) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wzieba/)](https://www.linkedin.com/in/wzieba/)
+### Recent blog posts [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@wzieba)](https://medium.com/@wzieba) 
 <!-- blog starts -->
 | Title | Date |
 | ----- | ---- |
