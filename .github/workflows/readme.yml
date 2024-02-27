@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out TILs
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
         repository: wzieba/til
@@ -24,7 +24,7 @@ jobs:
         tils_counter_format: ''
         date_format: '02/01/2006'
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         path: medium
     - name: Set up Python
