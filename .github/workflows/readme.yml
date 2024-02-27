@@ -17,7 +17,7 @@ jobs:
         fetch-depth: 0
         repository: wzieba/til
     - name: Append TILs
-      uses: wzieba/github-action-til-autoformat-readme@table_presenation
+      uses: wzieba/github-action-til-autoformat-readme@9ace979f6de88a5692e6361f927aa27eb656a706
       with:
         repo_name: 'wzieba/til'
         presentation: 'table'
