@@ -22,7 +22,7 @@ jobs:
         presentation: 'table'
         list_most_recent: 60
         tils_counter_format: ''
-        date_format: '02/01/2006'
+        date_format: '2020-08-26T00:00:00+00:00'
     - name: Check out repo
       uses: actions/checkout@v2
       with:
