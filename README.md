@@ -1,6 +1,6 @@
 ## Hi there 👋🏼
 
-<a href="https://giphy.com/stickers/GDevs-android-developer-summit-Y4bzv6DYbYzy8jDnoW"><img align="left" height="250" src=https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif></a>
+<a href="https://giphy.com/stickers/GDevs-android-developer-summit-Y4bzv6DYbYzy8jDnoW"><img style="margin-right:50px" align="left" height="250" src=https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif></a>
 
 ### Recent blog posts [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@wzieba)](https://medium.com/@wzieba) 
 <!-- blog starts -->
