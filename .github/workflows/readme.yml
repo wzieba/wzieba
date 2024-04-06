@@ -21,7 +21,7 @@ jobs:
       with:
         repo_name: 'wzieba/til'
         presentation: 'table'
-        list_most_recent: 60
+        list_most_recent: 5
         tils_counter_format: ''
         date_format: '02/01/2006'
     - name: Check out repo
@@ -52,8 +52,6 @@ jobs:
         cd medium
         echo "TILs"
         cat ../README.md
-        echo "Blog"
-        cat README.md
         cat ../README.md >> README.md
         echo "Joined"
         cat README.md
